@@ -1,4 +1,4 @@
-img = imread("/home/chaker/Pictures/try3.jpg");
+img = imread("/**/***/**.jpg");
 [rows, columns, ~] = size(img);
 %figure;imshow(img);
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
